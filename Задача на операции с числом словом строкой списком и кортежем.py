@@ -1,0 +1,6 @@
+a,b,c,d,f = int(input()),input(),input(),input().split(), tuple(input().split())
+print(a**2)
+print(b[0])
+print(c*a)
+print(d[::-1])
+print(len(f))
