@@ -12,8 +12,3 @@ for i in range(1,len(a)):
 
 print(a)
 print('Сложность пузырька =',count)
-
-for i in range(1,len(a)):
-    for j in range(i):
-        print(a[j],end = '')
-    print()
